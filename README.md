@@ -1,7 +1,7 @@
 # git_study
 git勉強リポジトリ
 
-aaaaa
+aaaaabbbbbb
 2016/01/09
 
 aaaaa
